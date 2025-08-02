@@ -1,0 +1,7 @@
+{
+  "buyer_name": "Test Customer from Braip",
+  "purchase_id": "BRAIP001",
+  "tracking_code": "BR123456789TEST",
+  "status": "PAGAMENTO_CONFIRMADO",
+  "updated_at": "2024-01-28T10:30:00Z"
+}
